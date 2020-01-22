@@ -1,14 +1,14 @@
-                 ooooo     ooo ooooooooo.   ooooooo  ooooo
-                 `888'     `8' `888   `Y88.  `8888    d8'
-                  888       8   888   .d88'    Y888..8P
-                  888       8   888ooo88P'      `8888'
-                  888       8   888            .8PY888.
-                  `88.    .8'   888           d8'  `888b
-                    `YbodP'    o888o        o888o  o88888o
+                 ooooo     ooo  ooooooooo.  ooooooo  ooooo
+                 `888'     `8'  `888   `Y88. `8888    d8'
+                  888       8    888   .d88'   Y888..8P
+                  888       8    888ooo88P'     `8888'
+                  888       8    888           .8PY888.
+                  `88.    .8'    888          d8'  `888b
+                    `YbodP'     o888o       o888o  o88888o
 
 
                     The Ultimate Packer for eXecutables
-   Copyright (c) 1996-2017 Markus Oberhumer, Laszlo Molnar & John Reiser
+   Copyright (c) 1996-2020 Markus Oberhumer, Laszlo Molnar & John Reiser
                            https://upx.github.io
 
 
@@ -20,7 +20,7 @@ This repository contains binaries of automatic UPX builds.
 
 Note that the git "master" branch is empty - visit
 
-  https://github.com/upx/upx-automatic-builds/branches
+  https://github.com/upx/upx-automatic-builds/branches/all
 
 for a list of available branches and use
 
