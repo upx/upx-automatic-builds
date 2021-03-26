@@ -8,7 +8,7 @@
 
 
                     The Ultimate Packer for eXecutables
-   Copyright (c) 1996-2020 Markus Oberhumer, Laszlo Molnar & John Reiser
+   Copyright (c) 1996-2021 Markus Oberhumer, Laszlo Molnar & John Reiser
                            https://upx.github.io
 
 
@@ -16,28 +16,14 @@
 UPX AUTOMATIC BUILDS
 ====================
 
-This repository contains binaries of automatic UPX builds.
+*NOTE*: automatic builds (i.e. binaries of the devel versions)
+are now available via GitHub Actions in
 
-Note that the git "master" branch is empty - visit
+  https://github.com/upx/upx/actions
 
-  https://github.com/upx/upx-automatic-builds/branches/all
+Please visit that page, click on a Workflow run and download
+the desired Artifacts (scroll down to bottom of the workflow
+page).
 
-for a list of available branches and use
-
-  git clone -b THE_BRANCH_NAME --single-branch https://github.com/upx/upx-automatic-builds.git
-
-to check out a specific branch.
-
-
-WORK IN PROGRESS.
-
-
-Share and Enjoy,
-Markus
-
-
-   Markus F.X.J. Oberhumer
-   <markus@oberhumer.com>
-
-
-# vim:set ts=4 sw=4 et:
+*IMPORTANT*: you must be signed-in in GitHub to be able to
+actually download the Artifact files
